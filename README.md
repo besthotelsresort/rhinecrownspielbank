@@ -1,0 +1,2 @@
+# rhinecrownspielbank
+Static site: rhinecrownspielbank
